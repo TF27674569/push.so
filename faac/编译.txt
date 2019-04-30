@@ -1,0 +1,11 @@
+一.下载faac1.28
+    http://downloads.sourceforge.net/faac/faac-1.28.zip
+
+二.环境
+   sudo apt-get install autoconf
+   sudo apt-get install libtool
+三.执行脚本
+   ./bootstrap
+四.修改
+   TODO 暂时没有找到去除版本号的文件在哪 先用.a静态库
+   
